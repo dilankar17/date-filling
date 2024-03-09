@@ -3,3 +3,5 @@ venv
 src/test.py
 src/resources/test.csv
 **/__pycache__/
+dist
+date_filling.egg-info
